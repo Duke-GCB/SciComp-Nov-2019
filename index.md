@@ -252,7 +252,7 @@ Materials zip files to download
   <div class="col-md-3">
     <h3>Unix shell</h3>
     <ul>
-      <li><a href="https://github.com/Duke-GCB/SciComp-Nov-2017/releases/download/1.0/dc_sample_data.zip">Download dc_sample_data.zip</a></li>
+      <li>See "Setup" under the lesson</li>
     </ul>
   </div>
   <div class="col-md-3">
