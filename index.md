@@ -247,7 +247,6 @@ please preview your site before committing, and make sure to run
 {% comment %}
 Materials zip files to download
 {% endcomment %}
-{% comment %}
 <h2 id="materials">Materials</h2>
 <div class="row">
   <div class="col-md-3">
@@ -284,7 +283,6 @@ Materials zip files to download
 -->
   </div>
 </div>
-{% endcomment %}
 
 
 {% comment %}
