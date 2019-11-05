@@ -272,15 +272,13 @@ Materials zip files to download
   </div>
   <div class="col-md-3">
     <h3>Running HPC jobs</h3>
-<!--
     <ul>
-      <li><a href="https://github.com/Duke-GCB/SciComp-Oct-2018/releases/download/v1.0/HPC.2018.pdf">Slides</a></li>
+      <li><a href="https://github.com/Duke-GCB/SciComp-Nov-2019/releases/download/1.0/HPC.2019.pdf">Slides</a></li>
       <li><a href="https://github.com/Duke-GCB/SciComp-Nov-2017/releases/download/1.0/HPC-Cheat-Sheet-DCC.pdf">DCC Cheat Sheet</a></li>
       <li><a href="https://github.com/Duke-GCB/SciComp-Nov-2017/releases/download/1.0/HPC-Cheat-Sheet-HARDAC.pdf">HARDAC Cheat Sheet</a></li>
       <li><a href="https://slurm.schedmd.com/pdfs/summary.pdf">Slurm Commands</a></li>
       <li><a href="https://rc.duke.edu/wp-content/uploads/DCC_Workshop_10-06-2017.pdf">DCC Workshop Slides</a></li>
     </ul>
--->
   </div>
 </div>
 
